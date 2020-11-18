@@ -1,0 +1,2 @@
+class Valor < ApplicationRecord
+end
